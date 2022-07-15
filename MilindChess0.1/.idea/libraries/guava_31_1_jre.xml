@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="guava-31.1-jre">
+    <CLASSES>
+      <root url="jar://D:/jars/guava31.1/jsr305-3.0.2.jar!/" />
+      <root url="jar://D:/jars/guava31.1/jsinterop-annotations-2.0.0.jar!/" />
+      <root url="jar://D:/jars/guava31.1/j2objc-annotations-1.3.jar!/" />
+      <root url="jar://D:/jars/guava31.1/failureaccess-1.0.1.jar!/" />
+      <root url="jar://D:/jars/guava31.1/guava-31.1-jre.jar!/" />
+      <root url="jar://D:/jars/guava31.1/error_prone_annotations-2.11.0.jar!/" />
+      <root url="jar://D:/jars/guava31.1/elemental2-promise-1.1.0.jar!/" />
+      <root url="jar://D:/jars/guava31.1/checker-qual-3.12.0.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="jar://D:/jars/guava31.1/base-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/jars/guava31.1/guava-gwt-31.1-jre.jar!/" />
+      <root url="jar://D:/jars/guava31.1/elemental2-promise-1.1.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="jar://D:/jars/guava31.1/base-1.0.0.jar!/" />
+      <root url="jar://D:/jars/guava31.1/base-1.0.0.jar!/jsinterop/base/super" />
+    </SOURCES>
+  </library>
+</component>
